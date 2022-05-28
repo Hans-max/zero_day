@@ -1,1 +1,1 @@
-A readme file for the optional vagrant project
+vagrant project readme file
