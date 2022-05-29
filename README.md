@@ -1,1 +1,1 @@
-Vagrant project resdme file
+Vagrant project readme file
